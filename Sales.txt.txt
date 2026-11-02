@@ -2,3 +2,7 @@ My name is Yogesh Varma
 I am from Vsakhapatnam
 I am learing Git and GitHub
 I am learing Data Analytics
+
+Sales = 2000
+Profit = 500
+
