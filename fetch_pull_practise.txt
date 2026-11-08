@@ -1,0 +1,3 @@
+GIT Fetch and Git pull Practical Exercise
+This file was created directly on Github
+
